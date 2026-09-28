@@ -1,4 +1,4 @@
-# Hi, I'm Bilal 👋
+# Hi, I'm Muhammad Bilal 👋
 
 Python automation developer — I build tools that turn repetitive, manual work
 into something that runs on its own.
