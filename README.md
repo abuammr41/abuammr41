@@ -11,6 +11,7 @@ work into clean, reliable output.
 - 📊 **Ecommerce Sales Analytics** — raw store order exports turned into a clean dataset and a multi-sheet Excel report
 - 🏥 **Medical Billing Claims Audit** — pre-submission validation (NPI, CPT/HCPCS, ICD-10) with Excel audit reporting
 - 🤖 **Trading Automation** — Binance spot trading bot with automated risk management
+- 🤖 **Agentic AI / Autonomous Agents** — give it a goal in plain English; it plans, calls tools (web search, calculator, files), and keeps working until done
 
 ## Featured Projects
 
@@ -21,6 +22,7 @@ work into clean, reliable output.
 | [Ecommerce Analytics Engine](https://github.com/abuammr41/-Ecommerce-Analytics-Engine) | Turns raw store order exports into a cleaned dataset and a multi-sheet sales report |
 | [Medical Billing Validator](https://github.com/abuammr41/Medical_billing-_validator) | Automated claim pre-submission validation & Excel audit reporting |
 | [AI Crypto Trading Bot](https://github.com/abuammr41/AI-Crypto-Trading-Bot) | Autonomous Binance spot trading bot — technical-signal scanning, automatic stop-loss/take-profit, Telegram alerts |
+| [Agentic AI Assistant](https://github.com/abuammr41/agentic-ai-assistant) | Autonomous Python agent - plans its own steps, uses tools, works with Claude or Gemini |
 
 ## Tech
 
